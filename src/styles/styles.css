@@ -1,0 +1,18 @@
+/* src/styles/index.css */
+
+/* Reset some basic elements */
+body, html, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  body {
+    font-family: monospace;
+    background-color: #ddbea9;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  

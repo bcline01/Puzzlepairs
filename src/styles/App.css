@@ -1,0 +1,8 @@
+/* src/styles/App.css */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #ddbea9;
+}
