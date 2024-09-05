@@ -15,12 +15,12 @@ Puzzle Pairs is a matching card game that not only times the players but also co
   8. [Test](#test)
 
   ## Installation
-  Clone the respository from my **[GitHub](https://github.com/bcline01/Portfolio)**
+  Clone the respository from my **[GitHub](https://github.com/bcline01/Puzzlepairs)**
+
 
    <br>NPM: Use the command "npm init -y" to install Node Package Manager<br>
       
 
-   
 
   ## Usage
   Within the directory for this project, initialize program by running the application in the integrated terminal "npm run start"
