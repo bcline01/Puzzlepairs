@@ -18,7 +18,7 @@ Puzzle Pairs is a matching card game that not only times the players but also co
   Clone the respository from my **[GitHub](https://github.com/bcline01/Puzzlepairs)**
 
 
-   <br>NPM: Use the command "npm init -y" to install Node Package Manager<br>
+   <br>NPM: Use the command "npm install" to install Node Package Manager<br>
       
 
 
